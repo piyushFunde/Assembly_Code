@@ -6,8 +6,13 @@ This folder contains simple Assembly Language examples illustrating Inter-Proces
 
 <h2>.Directory Structure</h2>
 IPC/
+
 ├── example1.asm          # Example 1: [brief description]
+
 ├── example2.asm          # Example 2: [brief description]
+
 ├── example3.asm          # ...
+
 ├── Makefile              # Optional: build helper
+
 └── README.md             # This file
